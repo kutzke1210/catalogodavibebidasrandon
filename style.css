@@ -33,6 +33,5 @@ background: rgba(255,255,255,0.4);
   transform: scale(1.05);
 }
 #log_inst{
-  margin-top: -80px;
   margin-left: 580px;
 }
